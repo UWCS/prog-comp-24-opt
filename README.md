@@ -58,6 +58,8 @@ The Makefile provides a target `submission`, which will zip up the contents of t
 make submission
 ```
 
+Email this zip file to `academic@uwcs.co.uk`
+
 ### Marking
 
 We will unzip your submitted files, then test them using the `run.sbatch` file on the DCS batch compute system for a variety of input data. If any of the tests produce output different to the original, your submission will be disqualified. Finally, we will produce a ranking of valid solutions from fastest to slowest.
