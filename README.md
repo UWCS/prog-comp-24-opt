@@ -80,4 +80,4 @@ Finally, we will produce a ranking of valid solutions from fastest to slowest.
 
 Good Luck!
 
-~ The UWCS Academic Team
+UWCS Academic Team
