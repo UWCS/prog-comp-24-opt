@@ -68,4 +68,5 @@ We want to make this challenge as fair as possible, so [here's an article you ma
 ---
 
 Good Luck!
+
 UWCS Academic Team
