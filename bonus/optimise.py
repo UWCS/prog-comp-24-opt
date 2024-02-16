@@ -79,7 +79,6 @@ class Grid:
             for x, cell in enumerate(row):
                 if cell != 0:
                     self.data[y][x] = fibonacci(x * y)
-                    print(f"{x} {y} {x * y}")
 
     def __str__(self) -> str:
         """Get a string representation of the grid."""

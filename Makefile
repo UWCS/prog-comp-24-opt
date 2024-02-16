@@ -5,7 +5,7 @@ SHELL := bash
 # Set some default values to run the job with. These can be modified here or
 # overriden as environment variables
 export GRID_SIZE ?= 100
-export NUM_AGENTS ?= 500
+export NUM_AGENTS ?= 100
 
 
 # Run the job on your local computer
