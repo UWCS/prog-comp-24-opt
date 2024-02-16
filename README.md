@@ -43,6 +43,8 @@ The Makefile provides a target `batch`, which will run your code on the DCS batc
 make batch
 ```
 
+This will create a file starting with `joboutput` in the `bonus` directory containing the output of the run.
+
 ### Submission
 
 You need to submit a zip file containing:
