@@ -2,7 +2,7 @@
 
 ***Note for 1st Years: you don't need to attempt/complete this problem in order to obtain a PDP point. That being said, it's a fun challenge, so we recommend you give it a go anyway ~~(and might help with future courseworks...)~~***
 
-Open `optimise.py`. What does it do? Great question! That's not your problem. All we want you to do is make it run as fast as possible.
+Open `optimise.py` in the `bonus` directory. What does it do? Great question! That's not your problem. All we want you to do is make it run as fast as possible.
 
 ### Rules
 
