@@ -11,7 +11,7 @@ All we want you to do is make it run as fast as possible.
 - The output of the optimised code must be the same as that of the original
   for all inputs
 
-That's all -- go wild.
+That's all - go wild!
 
 ### Getting started
 
