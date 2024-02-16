@@ -78,6 +78,9 @@ on the DCS batch compute system for a variety of input data. If any of the tests
 produce output different to the original, your submission will be disqualified.
 Finally, we will produce a ranking of valid solutions from fastest to slowest.
 
+### A Good Place to Start
+We want to make this challenge as fair as possible, so [here's an article you may want to read if you're stuck](https://medium.com/@guannan.shen.ai/compiler-optimizations-46db19221947)
+
 ---
 
 Good Luck!
